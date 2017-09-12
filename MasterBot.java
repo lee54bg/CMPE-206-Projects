@@ -2,7 +2,6 @@
  * Author: Brandon Lee Gaerlan
  * Program: Create a program that connects a SlaveBot to a MasterBot
  * The master must have the following specified commands as noted in the Programming Project requirements
- * Due Date: 03-06-2017
  * */
 
 

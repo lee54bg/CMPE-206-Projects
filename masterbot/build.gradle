@@ -1,0 +1,17 @@
+plugins {
+    id 'java'        
+    id 'application' 
+}
+
+mainClassName = 'masterbot.MasterBot'
+
+jar {
+  // Ensure that you specify a manifest file 
+  // for being able to run Java Executable JAR
+  manifest {
+    attributes(
+      // Ensure that the Main-Class matches the mainClassName
+      'Main-Class': 'masterbot.MasterBot'
+    )
+  }
+}

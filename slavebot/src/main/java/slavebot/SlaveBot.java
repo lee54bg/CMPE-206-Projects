@@ -5,6 +5,8 @@
  * Due Date: 03-06-2017
  * */
 
+package slavebot;
+
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;

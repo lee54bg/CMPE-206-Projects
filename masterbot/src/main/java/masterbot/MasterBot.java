@@ -3,7 +3,7 @@
  * Program: Create a program that connects a SlaveBot to a MasterBot
  * The master must have the following specified commands as noted in the Programming Project requirements
  * */
-
+package masterbot;
 
 import java.io.BufferedReader;
 import java.io.IOException;
